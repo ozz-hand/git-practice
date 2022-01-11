@@ -1,4 +1,4 @@
 # git-practice
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
-new-feature ブランチで変更しました
+no-fast-forward ブランチで変更しました。変更したはずだけどな
